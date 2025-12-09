@@ -85,7 +85,7 @@ int populateDB(){
     }
 
     sql = "INSERT INTO EMPLOYEES(ID,NAME,AGE,ADDRESS,SALARY, USERNAME, PASSWORD) "  \
-         "VALUES (1, 'ANDERS', 34, 'Oslo', 540000, 'AND', 'password123' ); " \
+         "VALUES (1, 'Anders', 34, 'Oslo', 540000, 'AND', 'password123' ); " \
          "INSERT INTO EMPLOYEES(ID,NAME,AGE,ADDRESS,SALARY, USERNAME, PASSWORD) "  \
          "VALUES (2, 'Allan', 65, 'Trondheim', 870000, 'ALL', 'unicorn47' ); "     \
          "INSERT INTO EMPLOYEES(ID,NAME,AGE,ADDRESS,SALARY, USERNAME, PASSWORD) " \

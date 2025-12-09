@@ -41,7 +41,7 @@ int main(){
             populateDB();
             break;
         case 3:
-            queryDB("SELECT * FROM EMPLOYEES");
+            queryDB();
             break;
         case 4:
             dropDB();
