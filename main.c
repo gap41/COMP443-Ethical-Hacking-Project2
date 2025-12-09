@@ -1,6 +1,6 @@
 /**
  * 
- * @file project.c
+ * @file main.c
  * 
  * This is the main project file with the tool to connect to the database
  * 
