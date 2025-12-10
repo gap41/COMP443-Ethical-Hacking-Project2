@@ -6,6 +6,8 @@
  * 
  * This is a part of the Project 3 submission for the class COMP-443 Ethical Hacking December 2025
  * 
+ * To compile the program the flag "-l sqlite3" is necessary e.g. : gcc *.c -l sqlite3 -o main
+ * 
  */
 
 
